@@ -31,7 +31,11 @@ body {
 }
 
 div.container a.brand {
+<<<<<<< HEAD
     background: url("../images/zf2-logo.png") no-repeat scroll 0 10px transparent;
+=======
+    background: url("../img/zf2-logo.png") no-repeat scroll 0 10px transparent;
+>>>>>>> refs/remotes/phpcloud/master
     margin-left: 0;
     padding: 8px 20px 12px 40px;
 }

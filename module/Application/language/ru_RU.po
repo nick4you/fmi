@@ -1,25 +1,19 @@
-#
-# tawfek daghistani <tawfekov@gmail.com>, 2012.
-# Tawfek Daghistani <tawfekov@gmail.com>, 2012.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-05 22:17-0700\n"
-"PO-Revision-Date: 2012-07-07 13:58+0300\n"
-"Last-Translator: Tawfek Daghistani <tawfekov@gmail.com>\n"
-"Language-Team: Arabic <>\n"
-"Language: \n"
+"PO-Revision-Date: 2012-10-23 08:46+0400\n"
+"Last-Translator: vragovR <vragovR@yandex.ru>\n"
+"Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: translate\n"
-"X-Poedit-Language: English\n"
-"X-Poedit-Country: UNITED STATES\n"
 "X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: ..\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
 #: ../view/layout/layout.phtml:6 ../view/layout/layout.phtml:33
 msgid "Skeleton Application"
@@ -27,16 +21,16 @@ msgstr "Skeleton Application"
 
 #: ../view/layout/layout.phtml:36
 msgid "Home"
-msgstr "الصفحة الرئيسية"
+msgstr "Главная"
 
 #: ../view/layout/layout.phtml:50
 msgid "All rights reserved."
-msgstr "جميع الحقوق محفوظة"
+msgstr "Все права защищены."
 
 #: ../view/application/index/index.phtml:2
 #, php-format
 msgid "Welcome to %sZend Framework 2%s"
-msgstr "أهلا بك في  %sZend Framework 2%s"
+msgstr "Привет, %sZend Framework 2%s"
 
 #: ../view/application/index/index.phtml:3
 #, php-format
@@ -46,17 +40,17 @@ msgid ""
 "skeleton can serve as a simple starting point for you to begin building your "
 "application on ZF2."
 msgstr ""
-"تهانينا! لقد قمت بتنصيب %sZF2 Skeleton Application%s . أنت الآن تستخدم مكتبة "
-"زيند الإصدار %s . هذا التطبيق يمكن أن يكون  لك نقطة بداية سهلة في بناء "
-"برامجك الخاصة على مكتبة زيند "
+"Поздравляем! Вы успешно установили %sZF2 Skeleton Application%s. У вас "
+"установлен Zend Framework версии %s. Этот каркас может служить простой "
+"отправной точкой, чтобы начать строить приложения на ZF2."
 
 #: ../view/application/index/index.phtml:4
 msgid "Fork Zend Framework 2 on GitHub"
-msgstr "اشتق مكتبة زيند على GitHub "
+msgstr "Fork Zend Framework 2 на GitHub"
 
 #: ../view/application/index/index.phtml:10
 msgid "Follow Development"
-msgstr "تابع أخر التطورات"
+msgstr "Следи за Разработкой"
 
 #: ../view/application/index/index.phtml:11
 #, php-format
@@ -67,17 +61,19 @@ msgid ""
 "%sdev blog%s, %sissue tracker%s, and much more. This is a great resource for "
 "staying up to date with the latest developments!"
 msgstr ""
-"مكتبة زيند تخضع للتطوير المستمر , إذا كان لديك الرغبة في متابعة التطورات , "
-"بإمكانك تصفح الموقع الرسمي للمكتبة الذي يحتوي على روابط إلى  %swiki%s, %sdev "
-"blog%s, %sissue tracker%s, ,و المزيد . هذه مصادر رائعة لمتابعة أخر التطورات"
+"Zend Framework 2 активно развивается. Если вы заинтерисованны в его "
+"развитии, для вас есть специальный портал ZF2 на официальном сайте Zend "
+"Framework который дает ссылки на ZF2 %swiki%s, %sdev blog%s, %sissue tracker"
+"%s, и многое другое. Это отличный ресурс для того чтобы быть в курсе "
+"последних событий."
 
 #: ../view/application/index/index.phtml:12
 msgid "ZF2 Development Portal"
-msgstr "بوابة التطوير الخاصة ب زيند"
+msgstr "ZF2 Портал Разработчика"
 
 #: ../view/application/index/index.phtml:16
 msgid "Discover Modules"
-msgstr "تعرف على الإضافات"
+msgstr "Узнай о Модулях"
 
 #: ../view/application/index/index.phtml:17
 #, php-format
@@ -87,107 +83,100 @@ msgid ""
 "%s. The site is currently live and currently contains a list of some of the "
 "modules already available for ZF2."
 msgstr ""
-"المجتمع البرمجي يعمل على تطوير موقع خاص به ليكون كمصدر و معرض لإضافات ZF2 . "
-"هذا المشروع موجود على %son GitHub%s . هذا الموقع يخضع للتطوير المستمر و "
-"يحتوي على قائمة من الإضافات الخاصة ب ZF2 "
+"Сообщество работает на созданием сайта, который служит хранилищем и галерей "
+"для ZF2 модулей. Проект доступен %sна GitHub%s. Сайт в настоящее время "
+"активен и содержит список модулей уже достпных для ZF2."
 
 #: ../view/application/index/index.phtml:18
 msgid "Explore ZF2 Modules"
-msgstr "إكتشف إضافات ZF2 "
+msgstr "Узнать о ZF2 модулях"
 
 #: ../view/application/index/index.phtml:22
 msgid "Help &amp; Support"
-msgstr "الدعم و المساعدة "
+msgstr "Помощь и Поддержка"
 
 #: ../view/application/index/index.phtml:23
 #, php-format
 msgid ""
 "If you need any help or support while developing with ZF2, you may reach us "
-<<<<<<< HEAD
-"via IRC: %s#zftalk.2 on Freenode%s. We'd love to hear any questions or "
-"feedback you may have regarding the beta releases. Alternatively, you may "
-"subscribe and post questions to the %smailing lists%s."
-msgstr ""
-"إذا كنت تريد الحصول على دعم فني أو مساعدة في تطوير ZF2 , بإمكانك التواصل عبر "
-"IRC: %s#zftalk.2 on Freenode%s. نحن نريد أن نسمع منك المزيد من الأسئلة , "
-=======
 "via IRC: %s#zftalk on Freenode%s. We'd love to hear any questions or "
 "feedback you may have regarding the beta releases. Alternatively, you may "
 "subscribe and post questions to the %smailing lists%s."
 msgstr ""
-"إذا كنت تريد الحصول على دعم فني أو مساعدة في تطوير ZF2 , بإمكانك التواصل عبر "
-"IRC: %s#zftalk on Freenode%s. نحن نريد أن نسمع منك المزيد من الأسئلة , "
->>>>>>> refs/remotes/phpcloud/master
-"الأراء و الملاحظات على النسخة التجربية من المكتبة , أو بإمكانك الإشتراك و "
-"التفاعل أو وضع الأسئلة في القائمة البريدية %smailing lists%s."
+"Если вам нужна помощь или поддержка при разработке с ZF2, вы можете "
+"связаться с нами по IRC: %s#zftalk on Freenode%s. Мы хотели бы узнать "
+"какие вопросы или предложения вы имеете относительно текущей версии. Кроме "
+"того, вы можете задавать вопросы в %smailing lists%s."
 
 #: ../view/application/index/index.phtml:24
 msgid "Ping us on IRC"
-msgstr "تواصل معنا في IRC"
+msgstr "Присоединяйся к IRC"
 
 #: ../view/error/index.phtml:1
 msgid "An error occurred"
-msgstr "حصل خطأ ما "
+msgstr "Произошла ошибка"
 
 #: ../view/error/index.phtml:8
 msgid "Additional information"
-msgstr "مزيد من المعلومات"
+msgstr "Дополнительная информация"
 
 #: ../view/error/index.phtml:11 ../view/error/index.phtml:35
 msgid "File"
-msgstr "ملف"
+msgstr "Файл"
 
 #: ../view/error/index.phtml:15 ../view/error/index.phtml:39
 msgid "Message"
-msgstr "الرسالة"
+msgstr "Сообщение"
 
 #: ../view/error/index.phtml:19 ../view/error/index.phtml:43
 #: ../view/error/404.phtml:55
 msgid "Stack trace"
-msgstr "تفاصيل الخطأ"
+msgstr "Развертывание стека"
 
 #: ../view/error/index.phtml:29
 msgid "Previous exceptions"
-msgstr "الأخطاء السابقة"
+msgstr "Предыдущие исключения"
 
 #: ../view/error/index.phtml:58
 msgid "No Exception available"
-msgstr "لايوجد خطأ"
+msgstr "Нет имеющихся исключений"
 
 #: ../view/error/404.phtml:1
 msgid "A 404 error occurred"
-msgstr "حصل خطأ 404 , الصفحة غير موجودة"
+msgstr "Ошибка 404"
 
 #: ../view/error/404.phtml:10
 msgid "The requested controller was unable to dispatch the request."
-msgstr "المتحكم المطلوب غير قادر على إجابة الطلب"
+msgstr "Запрашиваемый контроллер не смог отправить запрос."
 
 #: ../view/error/404.phtml:13
 msgid ""
 "The requested controller could not be mapped to an existing controller class."
-msgstr "لا يمكن ربط المتحكم المطلوب بأي من المتحكمات الموجودة حالياًَ"
+msgstr ""
+"Запрашиваемый контроллер не может быть сопоставлен с существующими классом "
+"контроллера."
 
 #: ../view/error/404.phtml:16
 msgid "The requested controller was not dispatchable."
-msgstr "المتحكم المطلوب غير قادر على الإجابة "
+msgstr "Запрашиваемый контроллер не доступен."
 
 #: ../view/error/404.phtml:19
 msgid "The requested URL could not be matched by routing."
-msgstr "الرابط المطلوب غير معرف لدى الموجه"
+msgstr "Для запрашиваемого URL не может быть достигнуто направление."
 
 #: ../view/error/404.phtml:22
 msgid "We cannot determine at this time why a 404 was generated."
-msgstr "لا يمكنني التحديد لماذا حصل الخطأ 404 في هذا الوقت "
+msgstr "Мы не можем определить причину создания страницы 404."
 
 #: ../view/error/404.phtml:34
 msgid "Controller"
-msgstr "المتحكم "
+msgstr "Контроллер"
 
 #: ../view/error/404.phtml:41
 #, php-format
 msgid "resolves to %s"
-msgstr "يوصل إلى %s"
+msgstr "разрешает для %s"
 
 #: ../view/error/404.phtml:51
 msgid "Exception"
-msgstr "خطأ برمجي"
+msgstr "Исключение"

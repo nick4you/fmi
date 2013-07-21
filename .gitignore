@@ -6,4 +6,9 @@ nbproject
 .idea
 .project
 .settings
+<<<<<<< HEAD
 composer.lock
+=======
+composer.lock
+vendor/bin
+>>>>>>> refs/remotes/phpcloud/master

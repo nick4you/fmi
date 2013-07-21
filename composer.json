@@ -7,6 +7,7 @@
         "zf2"
     ],
     "homepage": "http://framework.zend.com/",
+<<<<<<< HEAD
 	"minimum-stability": "alpha",
     "repositories": [
         {
@@ -20,5 +21,10 @@
         "zendframework/zendservice-recaptcha": "2.*",
         "doctrine/common": ">=2.1",
         "doctrine/doctrine-orm-module": "0.*"
+=======
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">2.2.0rc1"
+>>>>>>> refs/remotes/phpcloud/master
     }
 }

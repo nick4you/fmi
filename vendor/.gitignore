@@ -3,8 +3,11 @@
 composer
 zendframework
 autoload.php
+<<<<<<< HEAD
 ZF2
 bin
 doctrine
 symfony
 coolcsn
+=======
+>>>>>>> refs/remotes/phpcloud/master
